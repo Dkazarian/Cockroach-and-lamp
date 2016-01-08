@@ -1,4 +1,10 @@
-python 2.7
-pygame 1.9.1
+# Cockroach and lamp
+Requirements
+--------
+    python 2.7
+    pygame 1.9.1
 
-Start: src/main.py
+How to run
+----------
+
+    python src/main.py

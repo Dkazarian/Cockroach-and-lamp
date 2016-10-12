@@ -1,3 +1,5 @@
+[Video](https://www.youtube.com/watch?v=mOyfXagJqRs)
+
 # Cockroach and lamp
 Requirements
 --------
